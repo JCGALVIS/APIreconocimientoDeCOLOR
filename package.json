@@ -1,0 +1,25 @@
+{
+  "name": "apireconocimientodecolor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "firebase-admin": "^5.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node ./App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCGALVIS/APIreconocimientoDeCOLOR.git"
+  },
+  "author": "JCG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JCGALVIS/APIreconocimientoDeCOLOR/issues"
+  },
+  "homepage": "https://github.com/JCGALVIS/APIreconocimientoDeCOLOR#readme"
+}
